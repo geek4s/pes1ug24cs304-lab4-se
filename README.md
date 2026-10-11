@@ -3,6 +3,9 @@
 This project is a pattern recall memory game (Simon-style) using **Pygame**. It introduces students to finite state machines (`WATCH`, `PLAYER_TURN`, `GAME_OVER`), time-based sequence playback, index-matching input validation, and grid-based visual button feedback within an object-oriented codebase.
 ---
 
+## Link to access Prompts 
+https://claude.ai/share/f8e4bf74-54a5-46ff-a7e3-0d70f16f548a
+
 ## What's Provided
 
 A working Memory Color Pattern game with:
