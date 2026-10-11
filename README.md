@@ -59,7 +59,7 @@ Players currently have unlimited time to study the board between clicks. Introdu
 
 ---
 
-## Expected Behavior
+## Workflow
 
 - At the beginning of each round, the game displays the accumulated sequence step-by-step with illuminated button states.   
 - Each round strictly appends one new step rather than duplicating previous patterns.  
@@ -79,10 +79,3 @@ memory_color_pattern/
 └── README.md
 ```
 
-## Submission Checklist
-
-Submission is only the following three things:
-
-- [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
-- [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
-- [] The Chat/LLM used page link, with the complete chat history
